@@ -13,3 +13,9 @@ Run the following command to apply the fix:
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/xXJSONDeruloXx/bazziteAirpodsFix/main/fix-bluetooth-audio.sh | sudo bash
+```
+## MISC
+
+See also, this script for fixing sleep mode on linux for desktops using gigabyte boards:
+
+``` sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/DAK404/OpenSUSE-Setup-Scripts/main/GigabyteDesktop_Sleep_Fix.sh)" ```

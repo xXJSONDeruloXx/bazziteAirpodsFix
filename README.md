@@ -14,6 +14,13 @@ Run the following command to apply the fix:
 ```bash
 curl -sSL https://raw.githubusercontent.com/xXJSONDeruloXx/bazziteAirpodsFix/main/fix-bluetooth-audio.sh | sudo bash
 ```
+
+## Script to make SSH available on boot
+
+```bash
+curl -sSL https://raw.githubusercontent.com/xXJSONDeruloXx/bazziteAirpodsFix/main/setupSSH.sh | sudo bash
+```
+
 ## MISC
 
 See also, this script for fixing sleep mode on linux for desktops using gigabyte boards:
